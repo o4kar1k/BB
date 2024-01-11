@@ -1,0 +1,61 @@
+.nibt {
+  color: rgba(0, 0, 0, 0.7);
+  font-size: 25px;
+  font-family: arial black;
+  text-align: center;
+  padding-top: 28%;
+}
+
+.text-center {
+  color: rgba(255, 255, 255, 0.88);
+  text-align: center;
+  padding-top: 5%;
+  padding-left: 2%;
+  padding-right: 2%;
+  font-weight: bold;
+  font-family: arial;
+  text-shadow: white 1px 0px 10px;
+}
+
+.imya {
+  color: rgba(255, 255, 255, 0.88);
+  text-align: center;
+  padding-top: 42%;
+  font-weight: bold;
+  font-family: arial;
+}
+
+.cont {
+  position: relative;
+}
+
+.img-block {
+  background-color: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  left: 30%; top: 2%;
+  border: 3px solid red;
+  border-radius: 20px;
+  width: 40%;
+  height: 30%;
+}
+
+.joke-img-block {
+  width: 25%;
+  height: 20%;
+}
+
+.color-black-center {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  left: 30%;
+  border: 3px solid red;
+  border-radius: 20px;
+  margin-top: 10px;
+  height: 97.3%;
+  width: 40%;
+}
+
+.back-img {
+  position: absolute;
+  top: 85%; left: 45%;
+}
